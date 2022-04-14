@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: auto;
+  background-color: blueviolet;
+}
+
+h1,
+h2 {
+  padding: 1rem;
+}
+
+input {
+  display: block;
+  margin: auto;
+  padding: 5px;
+  margin-bottom: 5px;
+}
+
+button {
+  margin-top: 10px;
+  margin-right: 5px;
+  padding: 5px;
+  font-weight: bold;
+  background-color: rgb(216, 182, 248);
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
